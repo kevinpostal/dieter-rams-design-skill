@@ -52,6 +52,30 @@ Same article in dark mode. The interface recedes — content remains the focus r
 
 ![Editorial dark](editorial_dark.png)
 
+### Account settings form
+
+Complete form with all component states: default fields (filled and empty), validation error with helpful message, disabled inputs, toggle switches, and a danger zone with destructive action. Thorough down to the last detail (Principle 8).
+
+![Account settings form](settings.png)
+
+### Product detail page
+
+Honest e-commerce: real stock count (not fake urgency), transparent shipping, no pre-checked upsells. Clean two-column layout with variant picker, specs grid, and trust-building footer (Principle 6).
+
+![Product detail page](product.png)
+
+### Mobile task list
+
+Mobile-first daily planner: sticky header, horizontal date strip, sectioned task list with completion states and tags. Designed at 390px — mobile isn't a stripped-down desktop (Principles 4, 5).
+
+![Mobile task list](mobile.png)
+
+### Deployments data table
+
+Thorough data display: sortable columns, status badges (active/warning/error/superseded), user avatars, pagination, and summary stats. Every state is designed — no dead ends (Principle 8).
+
+![Data table](table.png)
+
 ### Design review output
 
 The review framework applied to a checkout component. Violations prioritized by Rams principle (honesty = critical, thoroughness = serious). Each finding includes the violation, location, and a concrete fix.
