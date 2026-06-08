@@ -1,8 +1,13 @@
 # dieter-rams-design-skill
 
-A design skill for AI code assistants (opencode, Claude Code, etc.) that applies **Dieter Rams' 10 Principles for Good Design** to software interface design, component architecture, and code.
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![OpenCode](https://img.shields.io/badge/made%20for-opencode-6e56cf)](https://github.com/anomalyco/opencode)
+[![Claude Code](https://img.shields.io/badge/works%20with-Claude%20Code-d97706)](https://claude.ai)
+[![10 Principles](https://img.shields.io/badge/principles-10-2563eb)](https://www.vitsoe.com/gb/about/good-design)
 
-> "Less, but better" — Dieter Rams
+> **An AI skill that turns Dieter Rams' 10 principles of good design into actionable software design rules.** Create interfaces that are useful, honest, unobtrusive, and built to last — or audit existing ones against the standard that defined Braun and Vitsoe.
+>
+> *"Less, but better"* — Dieter Rams
 
 ## What it does
 
